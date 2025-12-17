@@ -1,0 +1,23 @@
+# Basics
+.DS_Store
+.env
+.venv
+venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+start_app.bat
+
+# Node
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Django
+*.log
+local_settings.py
+staticfiles/
+media/
